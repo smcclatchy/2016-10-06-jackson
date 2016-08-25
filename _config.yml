@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "R for Reproducible Scientific Analysis"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: susan.mcclatchy@jax.org
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -30,8 +30,8 @@ swc_site: "https://software-carpentry.org"
 template_repo: "https://github.com/swcarpentry/styles"
 example_repo: "https://github.com/swcarpentry/lesson-example"
 example_site: "https://swcarpentry.github.com/lesson-example"
-workshop_repo: "https://github.com/swcarpentry/workshop-template"
-workshop_site: "https://swcarpentry.github.io/workshop-template"
+workshop_repo: "https://github.com/smcclatchy/2016-10-06-jackson"
+workshop_site: "https://smcclatchy.github.io/2016-10-06-jackson"
 
 # Surveys.
 pre_survey: "https://www.surveymonkey.com/r/swc_pre_workshop_v1?workshop_id="
@@ -65,5 +65,5 @@ exclude:
 highlighter: false
 
 github:
-  url: '/swc-releases/2016.06/workshop-template'
+  url: '/swc-releases/gh-pages/workshop-template'
 
